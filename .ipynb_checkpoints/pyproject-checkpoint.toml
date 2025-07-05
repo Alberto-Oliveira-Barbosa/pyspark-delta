@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pyspark-delta"
+version = "0.1.0"
+description = "Exemplos de usos de pyspark com delta tables"
+authors = ["Alberto Oliveira Barbosa <albertobarbosa115@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pyspark = "3.4.2"
+delta-spark = "2.4.0"
+jupyterlab = "^4.4.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

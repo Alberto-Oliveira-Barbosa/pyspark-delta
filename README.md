@@ -1,12 +1,12 @@
-# PySpark com Delta Tables - Exemplos de uso e explicações
+# Utilizadno PySpark com Delta Tables
 
-Este repositório contém exemplos de uso e explicações sobre a utilização e o funcionamento de Delta Tables junto do PySpark.
+Este repositório contém exemplos de uso e explicações sobre a utilização e o funcionamento de Delta Tables em conjunto com o PySpark.
 
 ## Visão geral
 
 O projeto demonstra como utilizar o PySpark em conjunto com Delta Lake para:
 - Criar tabelas Delta
-- Realzar Operações ACID
+- Realizar Operações ACID
 - Gerenciar o versionamento das tabelas
 - Implementar Upset, Merge e Delete
 - History e Time Travel

@@ -1,4 +1,4 @@
-# Utilizadno PySpark com Delta Tables
+# Utilizando PySpark com Delta Tables
 
 Este repositório contém exemplos de uso e explicações sobre a utilização e o funcionamento de Delta Tables em conjunto com o PySpark.
 
